@@ -1,3 +1,5 @@
+![Stocks-22211](https://github.com/Pearlicoco/Stock-Market-Analysis/assets/129555104/60d86212-881d-4dcf-9583-0d781ac6d88d)
+
 Brief Overview
 
 In this project I will be looking at data from the stock market, particularly some technology stocks like Apple, Microsoft, Amazon and Google. The stock data used for this analysis was imported directly from the web i.e the data was uptodate and not fake data. It was imported from yfinance, a popular open source library to collect stock market data. 
